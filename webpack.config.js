@@ -12,6 +12,7 @@ const PATHS = {
 
 const common = {
   module:{
+
     loaders:
       [
         {
